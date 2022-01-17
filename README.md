@@ -1,2 +1,2 @@
 # ar-hits
-Hit testing in a WebXR augmented reality app.
+Using hit testing in an augmented reality web app built with WebXR.
